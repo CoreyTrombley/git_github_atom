@@ -27,5 +27,7 @@ Some nice fella over on the youtubes made this great little video about how to s
 ### Atom Text Editor
 So github, being the awesome place they are, developed a nifty text editor for all to use. Download it here [Atom](https://atom.io/)
 * [5 Tips For Getting Started with Atom](http://readwrite.com/2014/05/20/github-atom-5-tips-getting-started-tutorial-corey-johnson)
+* [Tuts+ review and tips about Atom](http://code.tutsplus.com/tutorials/check-out-atom-githubs-new-development-editor--net-37030)
 
 [![How to use Github GUI on windows](http://img.youtube.com/vi/bo5MM2N_3tw/0.jpg)](https://www.youtube.com/watch?v=bo5MM2N_3tw)
+
