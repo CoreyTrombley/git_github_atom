@@ -5,7 +5,7 @@ First of all you will need git, you can download it here [git](http://git-scm.co
 The following are some resources that will help you understand some of the git commands that you may use quite often
 * [git docs](http://git-scm.com/documentation)
 * [git cheat sheet](http://www.git-tower.com/blog/git-cheat-sheet-detail/)
-* [Interactive git cheat sheet](http://ndpsoftware.com/git-cheatsheet.html) <- I used this one a lot to learn a lto of my git foo!
+* [Interactive git cheat sheet](http://ndpsoftware.com/git-cheatsheet.html) <- I used this one a lot to learn all of my git foo!
 * [list of videos by github](https://training.github.com/resources/videos/)
 * [Top 10 Git Tutorials for Beginners](http://sixrevisions.com/resources/git-tutorials-beginners/)
 
